@@ -1,0 +1,281 @@
+--------------------
+	 population_size=20	 spec_bits=33
+	 coupling_probability=0.400000
+	 mutation_probability=0.010000
+	 goal: 	 x1=9.623693 	 x2=4.427881
+ 	 fitness=35.477924
+	 N_GENES=2
+	 genes info:
+	 gene[0]:
+		 min=-3.000000
+ 		 max=12.100000
+ 		 bits=18
+ 		 offset=0
+	 gene[1]:
+		 min=4.100000
+ 		 max=5.800000
+ 		 bits=15
+ 		 offset=18
+--------------------
+Population Detailed Status:
+Specimen Information:
+	 genome=[ 000110100101001011101011111110001 ]
+	 fitness=11.855842
+	 Genes Value:
+		 gene[0]=9.421328
+		 gene[1]=5.055709
+Specimen Information:
+	 genome=[ 111011000111100010101100111001010 ]
+	 fitness=20.451667
+	 Genes Value:
+		 gene[0]=1.220567
+		 gene[1]=4.655184
+Specimen Information:
+	 genome=[ 110010011100101000101001001001101 ]
+	 fitness=16.648517
+	 Genes Value:
+		 gene[0]=-1.767602
+		 gene[1]=5.283987
+Specimen Information:
+	 genome=[ 011001101100111001010111111110100 ]
+	 fitness=25.414885
+	 Genes Value:
+		 gene[0]=6.251712
+		 gene[1]=4.418448
+Specimen Information:
+	 genome=[ 000000000001100101011101010101101 ]
+	 fitness=19.561110
+	 Genes Value:
+		 gene[0]=6.791444
+		 gene[1]=5.304376
+Specimen Information:
+	 genome=[ 000011100000100011000000100100110 ]
+	 fitness=23.687222
+	 Genes Value:
+		 gene[0]=8.567433
+		 gene[1]=4.767403
+Specimen Information:
+	 genome=[ 101100110111101011011000101011010 ]
+	 fitness=25.122581
+	 Genes Value:
+		 gene[0]=9.722990
+		 gene[1]=4.701306
+Specimen Information:
+	 genome=[ 111010101011110111110000100010100 ]
+	 fitness=28.488785
+	 Genes Value:
+		 gene[0]=11.117077
+		 gene[1]=4.369109
+Specimen Information:
+	 genome=[ 111011111100100101100111000101011 ]
+	 fitness=26.477256
+	 Genes Value:
+		 gene[0]=6.731941
+		 gene[1]=5.510813
+Specimen Information:
+	 genome=[ 110001001110001010000011111101010 ]
+	 fitness=16.015956
+	 Genes Value:
+		 gene[0]=1.824007
+		 gene[1]=4.683563
+Specimen Information:
+	 genome=[ 110000101111000111101000011001011 ]
+	 fitness=14.637956
+	 Genes Value:
+		 gene[0]=10.437602
+		 gene[1]=5.501474
+Specimen Information:
+	 genome=[ 011000100111101100110111001010101 ]
+	 fitness=26.139130
+	 Genes Value:
+		 gene[0]=0.277678
+		 gene[1]=5.232002
+Specimen Information:
+	 genome=[ 100100011001111111001001111010100 ]
+	 fitness=19.800610
+	 Genes Value:
+		 gene[0]=12.004726
+		 gene[1]=4.390744
+Specimen Information:
+	 genome=[ 111110110111110010000101001000010 ]
+	 fitness=25.046066
+	 Genes Value:
+		 gene[0]=1.702121
+		 gene[1]=4.540370
+Specimen Information:
+	 genome=[ 100010100110010011001101010101110 ]
+	 fitness=8.063204
+	 Genes Value:
+		 gene[0]=8.890063
+		 gene[1]=4.879260
+Specimen Information:
+	 genome=[ 000001000001001011010101110000011 ]
+	 fitness=8.363127
+	 Genes Value:
+		 gene[0]=9.388610
+		 gene[1]=5.387179
+Specimen Information:
+	 genome=[ 010101111100100100101111110111010 ]
+	 fitness=25.593003
+	 Genes Value:
+		 gene[0]=-0.818837
+		 gene[1]=4.724082
+Specimen Information:
+	 genome=[ 001011100010101011001110111100110 ]
+	 fitness=25.801342
+	 Genes Value:
+		 gene[0]=9.570402
+		 gene[1]=4.788778
+Specimen Information:
+	 genome=[ 001100101101100100100011011000100 ]
+	 fitness=25.353929
+	 Genes Value:
+		 gene[0]=-0.709969
+		 gene[1]=4.334971
+Specimen Information:
+	 genome=[ 011011011001011011111011110101111 ]
+	 fitness=16.670484
+	 Genes Value:
+		 gene[0]=9.883873
+		 gene[1]=5.733177
+Population Status:
+	 generation_cnt=0 	 coupling_cnt=0 	 mutations_cnt=0
+	 sum_fitness=409.192671 	 avg_fitness=20.459634
+	 max_fitness=28.488785 	 [ x1=11.117077	 	 x2=4.369109 ]
+	 min_fitness=8.063204
+--------------------
+--------------------
+Population Detailed Status:
+Specimen Information:
+	 genome=[ 000101010111110111001110011100011 ]
+	 fitness=37.899875
+	 Genes Value:
+		 gene[0]=11.136489
+		 gene[1]=5.422978
+Specimen Information:
+	 genome=[ 000001010111110111011100011100111 ]
+	 fitness=37.137712
+	 Genes Value:
+		 gene[0]=11.136028
+		 gene[1]=5.634758
+Specimen Information:
+	 genome=[ 000001010111010111001100010100111 ]
+	 fitness=16.613220
+	 Genes Value:
+		 gene[0]=10.900090
+		 gene[1]=5.621372
+Specimen Information:
+	 genome=[ 000101010111110111001100011100011 ]
+	 fitness=37.855917
+	 Genes Value:
+		 gene[0]=11.136489
+		 gene[1]=5.422147
+Specimen Information:
+	 genome=[ 000111010111110111011000011100011 ]
+	 fitness=37.817302
+	 Genes Value:
+		 gene[0]=11.137411
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000111011111110111010001011100011 ]
+	 fitness=37.401001
+	 Genes Value:
+		 gene[0]=11.152157
+		 gene[1]=5.423289
+Specimen Information:
+	 genome=[ 000001010111100111011100011100111 ]
+	 fitness=35.507749
+	 Genes Value:
+		 gene[0]=10.664152
+		 gene[1]=5.634758
+Specimen Information:
+	 genome=[ 000101010011100111011000011100011 ]
+	 fitness=37.364303
+	 Genes Value:
+		 gene[0]=10.635120
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000111011111110011010001011100010 ]
+	 fitness=15.257969
+	 Genes Value:
+		 gene[0]=9.264650
+		 gene[1]=4.573263
+Specimen Information:
+	 genome=[ 000101010011100111011000001100111 ]
+	 fitness=37.596021
+	 Genes Value:
+		 gene[0]=10.635120
+		 gene[1]=5.627702
+Specimen Information:
+	 genome=[ 000111011111110111011000001100111 ]
+	 fitness=37.555812
+	 Genes Value:
+		 gene[0]=11.152157
+		 gene[1]=5.627702
+Specimen Information:
+	 genome=[ 000111011111110111011000011100111 ]
+	 fitness=36.700112
+	 Genes Value:
+		 gene[0]=11.152157
+		 gene[1]=5.634343
+Specimen Information:
+	 genome=[ 000111011111110111011000011100011 ]
+	 fitness=37.324093
+	 Genes Value:
+		 gene[0]=11.152157
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000001010111110111011000011100011 ]
+	 fitness=37.844325
+	 Genes Value:
+		 gene[0]=11.136028
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000101010101110111011000011100011 ]
+	 fitness=35.977447
+	 Genes Value:
+		 gene[0]=11.077505
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000111010111110111011000011100011 ]
+	 fitness=37.817302
+	 Genes Value:
+		 gene[0]=11.137411
+		 gene[1]=5.421836
+Specimen Information:
+	 genome=[ 000011011111110011010001011100011 ]
+	 fitness=25.248853
+	 Genes Value:
+		 gene[0]=9.264189
+		 gene[1]=5.423289
+Specimen Information:
+	 genome=[ 000001010111110111011000011100111 ]
+	 fitness=37.220344
+	 Genes Value:
+		 gene[0]=11.136028
+		 gene[1]=5.634343
+Specimen Information:
+	 genome=[ 000101010111110111001100011100011 ]
+	 fitness=37.855917
+	 Genes Value:
+		 gene[0]=11.136489
+		 gene[1]=5.422147
+Specimen Information:
+	 genome=[ 000101010101110111011000011100011 ]
+	 fitness=35.977447
+	 Genes Value:
+		 gene[0]=11.077505
+		 gene[1]=5.421836
+Population Status:
+	 generation_cnt=100000 	 coupling_cnt=375020 	 mutations_cnt=660089
+	 sum_fitness=689.972721 	 avg_fitness=34.498636
+	 max_fitness=37.899875 	 [ x1=11.136489	 	 x2=5.422978 ]
+	 min_fitness=15.257969
+--------------------
+Population King:
+Specimen Information:
+	 genome=[ 000010111111101111110110100101111 ]
+	 fitness=38.850261
+	 Genes Value:
+		 gene[0]=11.625416
+		 gene[1]=5.725083
